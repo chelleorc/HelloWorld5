@@ -13,6 +13,7 @@
 - [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
+![637kj4](https://user-images.githubusercontent.com/11863590/151681126-7af7b902-78e8-4a54-b88a-f7ff84950a60.gif)
 - [x] 1. User can tap a button to change the color of the background view.
 - [x] 2. User can tap a button to change the text string of the label - Android is Awesome
 - [x] 3. User can tap on the background view to reset all views to default settings.
