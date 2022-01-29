@@ -1,22 +1,24 @@
-# HelloWorld5 #
+## Hello World5
 
-## What Does it Do?
+### App Description
 #### With the tap on the screen, you can change the background and text to a different color, tap to view the surprise message, and enter your own message. 
 
-## Why Did I Build This?
-#### I want to learn how to build applications and am applying to CodePath's *Introduction to Mobile Apps* course. This is the pre-work required and include features that were an optional part of the build.
+### App Walk-though
+<img src="enter URL here" width=250><br>
 
-## How Do You Use It?
-** Note: I have only tested this on Android Studio **
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
-#### Clone this repo to Android Studio and use the Google Pixel 2 emulator. 
+### Required User Stories
+- [x] 1. User sees custom text in a label - Hello from LaToya
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
 
-#### Note: At any time, you can reset to the default setting by tapping the background.
-
-##### Tap "Click to Change Text Color" to change the "Hello from LaToya!" text from *white* to *dark purple*
-##### Tap "Click to Change Background Color" to change background from *light purple* to *dark mode*
-##### Tap "Hello from LaToya!" text to change to "Android is Awesome"
-##### To display your own message, enter the your message where it says, "Enter your own text here", then tap, "Click to Change to Custom Text"
-#
-#
-### And that's it!
+### Optional User Stories
+- [x] 1. User can tap a button to change the color of the background view.
+- [x] 2. User can tap a button to change the text string of the label - Android is Awesome
+- [x] 3. User can tap on the background view to reset all views to default settings.
+- [x] 4. User can update the label text with custom text entered into the text field.
+   - [x] a. User can enter text into a text field using the keyboard.
+   - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
+   - [x] c. If the text field is empty, update label with default text string.
+   - [x] d. The keyboard is dismissed after the button has been tapped.
